@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I'm+Noah;A+Junior+Developer+based+in+Seattle)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">A junior developer based in Seattle</h3>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
