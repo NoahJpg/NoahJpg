@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I'm+Noah;A+Junior+Developer)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noahjpg&label=Profile%20views&color=0e75b6&style=flat" alt="noahjpg" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 
@@ -19,5 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahjpg&show_icons=true&locale=en" alt="noahjpg" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahjpg&" alt="noahjpg" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noahjpg&label=Profile%20views&color=0e75b6&style=flat" alt="noahjpg" /> </p>
 
 - 📫 How to reach me **noahatkinson1.1@gmail.com**
