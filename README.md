@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [AI Map Concierge](https://github.com/NoahJpg/AI-Map-Concierge.git)
+- 🔭 I’m currently working at Nombolo
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** / **AWS**
 
 - 📫 How to reach me **noahatkinson1.1@gmail.com**
 
