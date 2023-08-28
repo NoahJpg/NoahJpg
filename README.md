@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+I'm+Noah;A+Full-Stack+Developer)](https://git.io/typing-svg)
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahjpg&label=Profile%20views&color=0e75b6&style=flat" alt="noahjpg" /> </p>
 
-
-
-- 🔭 I’m currently working at [Nombolo](https://www.nombolo.com/) 
+- 🔭 I’m currently working at [Nombolo](https://www.nombolo.com/)
 
 - 🌱 I’m currently learning **React Native** / **AWS**
 
