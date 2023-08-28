@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working at [Nombolo](https://www.nombolo.com/)
+- 🔭 I’m currently working at [Nombolo](https://www.nombolo.com/) 
 
 - 🌱 I’m currently learning **React Native** / **AWS**
 
