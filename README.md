@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahjpg&label=Profile%20views&color=0e75b6&style=flat" alt="noahjpg" /> </p>
 
-- 🔭 I’m currently working at [Nombolo](https://www.nombolo.com/)
+- 🔭 Working at [Nombolo](https://www.nombolo.com/) since May (see Git falloff (: ) 
 
 - 🌱 I’m currently learning **React Native / AWS**
 
