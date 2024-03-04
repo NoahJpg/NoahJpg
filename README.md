@@ -8,7 +8,7 @@
 
 - 👨‍💻 My portfolio is available at [https://noah-atkinson.vercel.app/](https://noah-atkinson.vercel.app/)
 
-- 📫 How to reach me **noah.flac.com**
+- 📫 How to reach me **noah.flac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
