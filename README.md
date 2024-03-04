@@ -4,11 +4,11 @@
 
 - 🔭 Working at [Nombolo](https://www.nombolo.com/) since May (see Git falloff) 
 
-- 🌱 I’m currently learning **React Native / AWS**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 My portfolio is available at [https://noah-atkinson.vercel.app/](https://noah-atkinson.vercel.app/)
 
-- 📫 How to reach me **noahatkinson1.1@gmail.com**
+- 📫 How to reach me **noah.flac.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
