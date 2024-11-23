@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahjpg&label=Profile%20views&color=0e75b6&style=flat" alt="noahjpg" /> </p>
 
-- 🔭 Working at [FIG - Food Is Good](https://foodisgood.com/) since May
-
-- 🌱 I’m currently learning **Typescript**
-
 - 📫 How to reach me **noah.flac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
